@@ -4,6 +4,7 @@ namespace Application\Service;
 
 
 use Application\Picture\Api\RemoteFileProviderInterface;
+use Application\Picture\DataModel\HtmlPictureInterface;
 
 class RemoteFileService
 {
@@ -15,6 +16,12 @@ class RemoteFileService
         $this->remoteFileProvider = $remoteFileProvider;
     }
 
+    /**
+     * Searches via a remote API for pictures.
+     *
+     * @param string $keyword
+     * @return HtmlPictureInterface[]
+     */
     public function searchRemote($keyword)
     {
         return $this->getRemoteFileProvider()->search($keyword);

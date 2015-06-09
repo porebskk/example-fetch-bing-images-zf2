@@ -15,6 +15,13 @@ class BingImage
     /** @var string Password for HTTP authentication */
     protected $password;
 
+    /**
+     * Constructor.
+     *
+     * @param string $username For HTTP authentication
+     * @param string $password For HTTP authentication
+     * @param null|string $webUrl Bing image API url with %s as keyword replacement
+     */
     public function __construct($username, $password, $webUrl = null)
     {
         $this->username = $username;

@@ -26,6 +26,8 @@ class SearchService
 
 
     /**
+     * Searches for pictures with the searchterm in the local filesystem and remote.
+     *
      * @param string $searchTerm
      * @param int $maxResults
      * @return HtmlPictureInterface[]

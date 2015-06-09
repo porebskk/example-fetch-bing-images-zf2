@@ -2,6 +2,7 @@
 
 namespace Application\Service;
 
+use Application\Picture\DataModel\HtmlPictureInterface;
 use Application\Picture\DataModel\LocalPicture;
 
 /**
@@ -18,7 +19,13 @@ class LocalFileService
         $this->publicFolder = $publicFolder;
     }
 
-
+    /**
+     * Loads pictures from the given storage folder. Only files will be loaded that can be found in a folder with the
+     * same name as the keyword.
+     *
+     * @param string $keyword
+     * @return HtmlPictureInterface[]
+     */
     public function fetchPictures($keyword)
     {
         $result = [];
