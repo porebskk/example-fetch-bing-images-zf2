@@ -12,9 +12,10 @@ class LocalFileService
     /** @var string The folder where pictures are stored */
     protected $storageFolder;
 
-    public function __construct($storageFolder)
+    public function __construct($storageFolder, $publicFolder = 'public')
     {
         $this->storageFolder = $storageFolder;
+        $this->publicFolder = $publicFolder;
     }
 
 
@@ -27,7 +28,7 @@ class LocalFileService
         }
         $files = array_diff(scandir($realPath), ['..', '.']);
         foreach ($files as $file) {
-            $result[] = new LocalPicture($realPath . DIRECTORY_SEPARATOR . $file, 'public');
+            $result[] = new LocalPicture($realPath . DIRECTORY_SEPARATOR . $file, $this->publicFolder);
         }
         return $result;
     }

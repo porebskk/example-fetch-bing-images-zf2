@@ -3,6 +3,7 @@
 namespace Application\Picture\Api;
 
 
+use Application\Picture\DataModel\HtmlPictureInterface;
 use Application\Picture\DataModel\RemotePicture;
 
 class BingImage
@@ -23,6 +24,12 @@ class BingImage
         }
     }
 
+    /**
+     * Finds pictures trough the Bing API.
+     *
+     * @param string $keyword
+     * @return HtmlPictureInterface[]
+     */
     public function search($keyword)
     {
         $content = $this->fetchXmlViaWebservice($keyword);
@@ -61,10 +68,12 @@ class BingImage
     }
 
     /**
+     * Executes a html request with http authentication.
+     *
      * @param string $keyword
      * @return string XML as string
      */
-    public function fetchXmlViaWebservice($keyword)
+    protected  function fetchXmlViaWebservice($keyword)
     {
         $context = stream_context_create(array(
             'http' => array(
@@ -74,4 +83,4 @@ class BingImage
         $content = file_get_contents(sprintf($this->getWebUrl(), $keyword), false, $context);
         return $content;
     }
-} 
+}
