@@ -1,0 +1,1482 @@
+<feed
+        xmlns:d="http://schemas.microsoft.com/ado/2007/08/dataservices"
+        xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns="http://www.w3.org/2005/Atom">
+    <title type="text">voodoo</title>
+    <subtitle type="text">Bing Image Search</subtitle>
+    <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'</id>
+    <rights type="text"/>
+    <updated>2015-06-08T20:32:03Z</updated>
+    <link rel="next"
+          href="https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=50"/>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=0&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">2f3c0c7a-cff9-4c8a-9846-1d78d556af3c</d:ID>
+                <d:Title m:type="Edm.String">When “trying” voodoo leads to a close encounter</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://www.demon-slayer.org/wp-content/uploads/2011/05/voodoo.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://www.demon-slayer.org/when-trying-voodoo-leads-to-a-close-encounter/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.demon-slayer.org/when-trying-voodoo-leads-to-a-close-encounter
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">1000</d:Width>
+                <d:Height m:type="Edm.Int32">625</d:Height>
+                <d:FileSize m:type="Edm.Int64">325928</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts1.mm.bing.net/th?id=JN.FHPqbakdGIi1EfjFklWdLQ&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">187</d:Height>
+                    <d:FileSize m:type="Edm.Int64">4568</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=1&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">63a09f45-a140-4169-9e77-c333ed7a8854</d:ID>
+                <d:Title m:type="Edm.String">... pulled this “voodoo video” from last week’s Good Friday service
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://eugenecho.files.wordpress.com/2009/04/still_sebastians_voodoo_02.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://eugenecho.com/2009/04/14/the-voodoo-video-i-couldnt-show-at-quest/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">eugenecho.com/2009/04/14/the-voodoo-video-i-couldnt-show-at-quest
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">1920</d:Width>
+                <d:Height m:type="Edm.Int32">1080</d:Height>
+                <d:FileSize m:type="Edm.Int64">291519</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.W4sVMPcT6mwbHK4pCf2RqA&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">168</d:Height>
+                    <d:FileSize m:type="Edm.Int64">6985</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=2&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">420f89f3-814e-4cf0-9f23-b5e398a12505</d:ID>
+                <d:Title m:type="Edm.String">style realistic details 3 examples voodoo doll voodoo priest</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://liveforfilms.files.wordpress.com/2009/09/voodoo.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://forum.toribash.com/showthread.php?t=162535</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">forum.toribash.com/showthread.php?t=162535</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">900</d:Width>
+                <d:Height m:type="Edm.Int32">1365</d:Height>
+                <d:FileSize m:type="Edm.Int64">144054</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts2.mm.bing.net/th?id=JN.eRm0MKL%2fvIQ2zJ6EnS6h5w&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">197</d:Width>
+                    <d:Height m:type="Edm.Int32">300</d:Height>
+                    <d:FileSize m:type="Edm.Int64">7444</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=3&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">4752c158-f16e-415f-b686-113b45af6833</d:ID>
+                <d:Title m:type="Edm.String">Voodoo, Voodooism And Voodoo Dolls: Is It Really Just Black Magic?
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://astralsociety.net/wp-content/uploads/2013/04/Voodoo_doll_Louvre_E27145b.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://astralsociety.net/voodoo-voodooism-and-voodoo-dolls-is-it-really-just-black-magic/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">astralsociety.net/voodoo-voodooism-and-voodoo-dolls-is-it-really...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">1903</d:Width>
+                <d:Height m:type="Edm.Int32">2864</d:Height>
+                <d:FileSize m:type="Edm.Int64">4691610</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts1.mm.bing.net/th?id=JN.vSC2xQytUAsp0qj5j2nO%2fw&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">199</d:Width>
+                    <d:Height m:type="Edm.Int32">300</d:Height>
+                    <d:FileSize m:type="Edm.Int64">7581</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=4&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">fd4e66cd-e4c1-4b5e-bbb2-1657c317a4de</d:ID>
+                <d:Title m:type="Edm.String">Photo: A voodoo priest walks around a believer in a trance during a ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">http://blogs.reuters.com/faithworld/files/2010/12/voodoo-1.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://blogs.reuters.com/faithworld/2010/12/24/haiti-voodoo-leader-urges-halt-to-cholera-lynchings-of-priests/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">blogs.reuters.com/faithworld/2010/12/24/haiti-voodoo-leader-urges...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">600</d:Width>
+                <d:Height m:type="Edm.Int32">399</d:Height>
+                <d:FileSize m:type="Edm.Int64">71882</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts3.mm.bing.net/th?id=JN.O8AxT1RJCL%2b3wq6a%2bL0J2A&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">199</d:Height>
+                    <d:FileSize m:type="Edm.Int64">10983</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=5&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">bde0fbcf-3f34-47b3-9c18-3df7fda30857</d:ID>
+                <d:Title m:type="Edm.String">he Voodoo man is haunting me,</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://2.bp.blogspot.com/-O-WsI6-OTvg/UX4WxtK04XI/AAAAAAAAAug/YfQbiTat-_A/s640/voodoo+man.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://aconstantlyracingmind.blogspot.com/2013/05/the-voodoo-man.html
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">aconstantlyracingmind.blogspot.com/2013/05/the-voodoo-man.html
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">320</d:Width>
+                <d:Height m:type="Edm.Int32">480</d:Height>
+                <d:FileSize m:type="Edm.Int64">196253</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts4.mm.bing.net/th?id=JN.InY%2bRQJ9Tl0NlrXc8dbS4Q&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">200</d:Width>
+                    <d:Height m:type="Edm.Int32">300</d:Height>
+                    <d:FileSize m:type="Edm.Int64">9165</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=6&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">682f6dff-5fcf-4775-8388-a9bd9d704661</d:ID>
+                <d:Title m:type="Edm.String">Try my Ancient Voodoo Spells Today.</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://www.africavoodoo.com/voodoo19.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://africavoodoo.com/</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">africavoodoo.com</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">291</d:Width>
+                <d:Height m:type="Edm.Int32">410</d:Height>
+                <d:FileSize m:type="Edm.Int64">35878</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts4.mm.bing.net/th?id=JN.q4QkWKu6VoY9UxcUn3%2f7Tg&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">291</d:Width>
+                    <d:Height m:type="Edm.Int32">410</d:Height>
+                    <d:FileSize m:type="Edm.Int64">39508</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=7&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">8629c953-2389-438c-a225-2c0e503c76b3</d:ID>
+                <d:Title m:type="Edm.String">ANTI-VOODOO PRAYER by DemonBuster.com</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://4.bp.blogspot.com/_K-8NlJjwVvE/TOZJh1AZgYI/AAAAAAAAASY/tyQBL0AX2X0/s1600/Voodoo-doll1.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://healwithgrace.blogspot.com/2010/04/anti-voodoo-prayer-by-demonbustercom.html
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">healwithgrace.blogspot.com/2010/04/anti-voodoo-prayer-by...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">337</d:Width>
+                <d:Height m:type="Edm.Int32">450</d:Height>
+                <d:FileSize m:type="Edm.Int64">44293</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.JFcUvxeS6PXFvmjtgZDnig&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">337</d:Width>
+                    <d:Height m:type="Edm.Int32">450</d:Height>
+                    <d:FileSize m:type="Edm.Int64">20597</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=8&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">6f6166ac-6472-4d4d-ad5a-c86a84211b63</d:ID>
+                <d:Title m:type="Edm.String">here for your special voodoo magic altar request free powerful voodoo ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">http://www.supervoodoospells.com/images/voodoo_028.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.supervoodoospells.com/DePrinceMasterVoodooCatlog.htm
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.supervoodoospells.com/DePrinceMasterVoodooCatlog.htm
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">508</d:Width>
+                <d:Height m:type="Edm.Int32">666</d:Height>
+                <d:FileSize m:type="Edm.Int64">80247</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.fF3To8OzIU7hD7CBP8odFA&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">366</d:Width>
+                    <d:Height m:type="Edm.Int32">480</d:Height>
+                    <d:FileSize m:type="Edm.Int64">21638</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=9&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">44077a55-036c-4c7c-aab0-5f60aaf000fa</d:ID>
+                <d:Title m:type="Edm.String">Sebastian’s Voodoo (US-2008; short [4:23 min.]; dir. Joaquin Baldwin ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://roberthood.net/blog/wp-content/uploads/2009/07/poster_sebastians_voodoo.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://roberthood.net/blog/index.php/2009/07/26/weekend-fright-flick-sebastians-voodoo/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">roberthood.net/blog/index.php/2009/07/26/weekend-fright-flick...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">1296</d:Width>
+                <d:Height m:type="Edm.Int32">1920</d:Height>
+                <d:FileSize m:type="Edm.Int64">526854</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts4.mm.bing.net/th?id=JN.844s%2baSfnqvJ1LZXVPLr%2fA&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">324</d:Width>
+                    <d:Height m:type="Edm.Int32">480</d:Height>
+                    <d:FileSize m:type="Edm.Int64">22857</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=10&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">acac2295-38d0-4894-b96a-6543362ebc8a</d:ID>
+                <d:Title m:type="Edm.String">Voodoo Revenge Spells, Voodoo Spells, Spells, Voodoo, Revenge, Casting
+                    ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">http://www.saulat.com/images/voodoo_revenge_spells.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.saulat.com/voodoo_revenge_spells.htm</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.saulat.com/voodoo_revenge_spells.htm</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">600</d:Width>
+                <d:Height m:type="Edm.Int32">600</d:Height>
+                <d:FileSize m:type="Edm.Int64">103487</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.9eek3k6PXGPaTHPp3VmDyw&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">300</d:Height>
+                    <d:FileSize m:type="Edm.Int64">17590</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=11&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">e3162b32-6f86-46dc-ae8a-4a49314f42ee</d:ID>
+                <d:Title m:type="Edm.String">Voodoo</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://occultistic.files.wordpress.com/2011/09/voodoo12.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://occultistic.wordpress.com/2011/09/14/voodoo/</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">occultistic.wordpress.com/2011/09/14/voodoo</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">424</d:Width>
+                <d:Height m:type="Edm.Int32">424</d:Height>
+                <d:FileSize m:type="Edm.Int64">78254</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts1.mm.bing.net/th?id=JN.S2P0k%2fkx%2bGrb1LTckHK%2baw&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">424</d:Width>
+                    <d:Height m:type="Edm.Int32">424</d:Height>
+                    <d:FileSize m:type="Edm.Int64">10961</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=12&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">bfbe099a-ba6d-4f28-a281-cd6676bc2f1a</d:ID>
+                <d:Title m:type="Edm.String">tumblr_ly6a1jEBpg1r5ludb.jpg</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://media.tumblr.com/tumblr_ly6a1jEBpg1r5ludb.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://deathtodevelkok.tumblr.com/post/16275424569/inspiration-the-voodoo-vixens
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">
+                    deathtodevelkok.tumblr.com/post/16275424569/inspiration-the-voodoo...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">420</d:Width>
+                <d:Height m:type="Edm.Int32">421</d:Height>
+                <d:FileSize m:type="Edm.Int64">43139</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts1.mm.bing.net/th?id=JN.PaBrMVC%2fq%2f8moLJhn8xaOw&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">420</d:Width>
+                    <d:Height m:type="Edm.Int32">421</d:Height>
+                    <d:FileSize m:type="Edm.Int64">25989</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=13&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">e5108840-4e9c-41c5-92f8-9bca4135375f</d:ID>
+                <d:Title m:type="Edm.String">Preview Images</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://www.moviemaniacs.net/figures/mcfarlane/monsters/series1/voodoo/prevoodoo1.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://www.moviemaniacs.net/figures/mcfarlane/monsters/series1/voodoo/index.htm
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.moviemaniacs.net/figures/mcfarlane/monsters/series1/voodoo...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">600</d:Width>
+                <d:Height m:type="Edm.Int32">900</d:Height>
+                <d:FileSize m:type="Edm.Int64">107168</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.2EVXYrQfqadK6PBGMW7l2w&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">200</d:Width>
+                    <d:Height m:type="Edm.Int32">300</d:Height>
+                    <d:FileSize m:type="Edm.Int64">11061</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=14&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">b3631384-2fb7-4c96-ba5e-266e8058a3c6</d:ID>
+                <d:Title m:type="Edm.String">voodoo gypsy...</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://1.bp.blogspot.com/-li8IWJB-iUU/T70mCYYC5bI/AAAAAAAABA8/yMlESW55yNo/s1600/voodoo111.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://pictureswashedinblack.blogspot.com/2012/05/voodoo-gypsy.html
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">pictureswashedinblack.blogspot.com/2012/05/voodoo-gypsy.html
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">800</d:Width>
+                <d:Height m:type="Edm.Int32">600</d:Height>
+                <d:FileSize m:type="Edm.Int64">159819</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts2.mm.bing.net/th?id=JN.2aPd91SCKGbT3GfWfem5Ig&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">480</d:Width>
+                    <d:Height m:type="Edm.Int32">360</d:Height>
+                    <d:FileSize m:type="Edm.Int64">39753</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=15&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">e9f0f66f-1127-4069-8f32-942b6034dd9b</d:ID>
+                <d:Title m:type="Edm.String">... Witchcraft, Voodoo, Spirituality and Mysticism: What is it all About
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">http://www.sorac.net/wp-content/uploads/voodoo_altar.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://www.sorac.net/site/1999/02/african-and-diasporic-religions-gods-ancestors-witchcraft-voodoo-spirituality-and-mysticism-what-is-it-all-about/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.sorac.net/site/1999/02/african-and-diasporic-religions-gods...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">600</d:Width>
+                <d:Height m:type="Edm.Int32">468</d:Height>
+                <d:FileSize m:type="Edm.Int64">65911</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts1.mm.bing.net/th?id=JN.1g7%2biNgipldsX6mgPYYpTg&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">234</d:Height>
+                    <d:FileSize m:type="Edm.Int64">23722</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=16&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">fbeb2c17-c341-41e8-b1b0-57ebdebf8b80</d:ID>
+                <d:Title m:type="Edm.String">Kapłani budzącego grozę kultu voodoo pełnią funkcję lekarzy ...</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://losyziemi.pl/wp-content/uploads/2012/05/voodoo.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://losyziemi.pl/haiti-reportaz-z-ceremonii-voodoo-30-min-video
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">losyziemi.pl/haiti-reportaz-z-ceremonii-voodoo-30-min-video
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">640</d:Width>
+                <d:Height m:type="Edm.Int32">546</d:Height>
+                <d:FileSize m:type="Edm.Int64">229262</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts4.mm.bing.net/th?id=JN.hpPMe6kOi%2f%2f8WIEcrW6HOw&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">255</d:Height>
+                    <d:FileSize m:type="Edm.Int64">10626</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=17&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">581552bf-c23f-47f3-b569-26a2e031ece9</d:ID>
+                <d:Title m:type="Edm.String">Voodoo Queens; Facial Masks Doodled By Illustrator Nina Chakrabati.
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://1.bp.blogspot.com/-vWZV031rX7w/TVyo1viMjHI/AAAAAAABpjk/QfBnuY4NsKQ/s1600/voodoo_2.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://ifitshipitshere.blogspot.com/2011/02/voodoo-queens-facial-masks-doodled-by.html
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">ifitshipitshere.blogspot.com/2011/02/voodoo-queens-facial-masks...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">885</d:Width>
+                <d:Height m:type="Edm.Int32">1200</d:Height>
+                <d:FileSize m:type="Edm.Int64">350292</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts1.mm.bing.net/th?id=JN.Lvdb29MOoR5cnDYEJdd6Xg&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">221</d:Width>
+                    <d:Height m:type="Edm.Int32">300</d:Height>
+                    <d:FileSize m:type="Edm.Int64">10626</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=18&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">9686c003-a292-4b7f-9749-7d21720c5283</d:ID>
+                <d:Title m:type="Edm.String">voodoo</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://www.phantasmpsiresearch.com/JPGS/Voodoo%202.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.phantasmpsiresearch.com/occultpracticesvoodoo.htm
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.phantasmpsiresearch.com/occultpracticesvoodoo.htm</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">450</d:Width>
+                <d:Height m:type="Edm.Int32">303</d:Height>
+                <d:FileSize m:type="Edm.Int64">21230</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts4.mm.bing.net/th?id=JN.rsJzx1G1GwColGZ9fEN%2b8w&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">450</d:Width>
+                    <d:Height m:type="Edm.Int32">303</d:Height>
+                    <d:FileSize m:type="Edm.Int64">15416</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=19&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">524064b7-ca94-4575-b537-9ef501850728</d:ID>
+                <d:Title m:type="Edm.String">Go Go Voodoo Child by VanHeist</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://fc01.deviantart.net/fs22/f/2007/316/f/f/Go_Go_Voodoo_Child_by_VanHeist.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://vanheist.deviantart.com/art/Go-Go-Voodoo-Child-69656774
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">vanheist.deviantart.com/art/Go-Go-Voodoo-Child-69656774</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">813</d:Width>
+                <d:Height m:type="Edm.Int32">1075</d:Height>
+                <d:FileSize m:type="Edm.Int64">110546</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts1.mm.bing.net/th?id=JN.uns09Jt8r2PI1J1vrFNRbg&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">363</d:Width>
+                    <d:Height m:type="Edm.Int32">480</d:Height>
+                    <d:FileSize m:type="Edm.Int64">17530</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=20&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">c4e41ea0-1d3e-494a-b01c-765236a5a85c</d:ID>
+                <d:Title m:type="Edm.String">Difference between Hoodoo and Voodoo</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://www.stepbystep.com/wp-content/uploads/2013/05/Difference-between-Hoodoo-and-Voodoo2.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://www.stepbystep.com/difference-between-hoodoo-and-voodoo-100399/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.stepbystep.com/difference-between-hoodoo-and-voodoo-100399
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">500</d:Width>
+                <d:Height m:type="Edm.Int32">333</d:Height>
+                <d:FileSize m:type="Edm.Int64">21263</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts1.mm.bing.net/th?id=JN.ToP6k6yMEM%2fR8zcWS0nRfg&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">199</d:Height>
+                    <d:FileSize m:type="Edm.Int64">7229</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=21&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">47e9176a-62f6-4221-8628-230330941b4e</d:ID>
+                <d:Title m:type="Edm.String">client voodoo controllers project voodoo controllers character design ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://www.fullyillustrated.com/wp-content/uploads/2009/12/fully-illustrated-voodoo-controllers-character.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://www.fullyillustrated.com/portfolio/illustration/voodoo-controllers/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.fullyillustrated.com/portfolio/illustration/voodoo-controllers
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">769</d:Width>
+                <d:Height m:type="Edm.Int32">438</d:Height>
+                <d:FileSize m:type="Edm.Int64">93802</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts1.mm.bing.net/th?id=JN.a5hjjm2tECtc2Gvd70Hmbg&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">170</d:Height>
+                    <d:FileSize m:type="Edm.Int64">7517</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=22&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">be3d0cd6-b1d9-4ef2-aafd-85fd8a4f689d</d:ID>
+                <d:Title m:type="Edm.String">MySpace: www.myspace.com/voodooalex</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://voodoogods.net/photos/alex.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://voodoogods.net/index2.php?section=band&amp;person=alex
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">voodoogods.net/index2.php?section=band&amp;person=alex</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">900</d:Width>
+                <d:Height m:type="Edm.Int32">1130</d:Height>
+                <d:FileSize m:type="Edm.Int64">1085703</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts3.mm.bing.net/th?id=JN.GyTyJXK62Pyr5dwMK%2bzVnQ&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">382</d:Width>
+                    <d:Height m:type="Edm.Int32">480</d:Height>
+                    <d:FileSize m:type="Edm.Int64">27144</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=23&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">5bcf376c-9daf-461c-ad4d-8c4a4f50c9e8</d:ID>
+                <d:Title m:type="Edm.String">Obama may be outraged by a voodoo priestess chanting in the White ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">http://www.infowars.com/images/voodoo.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.infowars.com/voodoo-in-obamas-white-house/</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.infowars.com/voodoo-in-obamas-white-house</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">400</d:Width>
+                <d:Height m:type="Edm.Int32">279</d:Height>
+                <d:FileSize m:type="Edm.Int64">43979</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts3.mm.bing.net/th?id=JN.5iNX%2f6WEBUiUjLLuNBLfTw&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">209</d:Height>
+                    <d:FileSize m:type="Edm.Int64">16702</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=24&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">07f5dd76-82bd-4fc5-8001-ca5114ca5012</d:ID>
+                <d:Title m:type="Edm.String">heavy voodoo theme submitted by heavy voodoo sunset submitted by ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://nxe.weebly.com/uploads/1/2/7/4/1274446/voodoodark__by_heavy_voodoo.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://nxe.weebly.com/variousmiscwallpapers.html</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">nxe.weebly.com/variousmiscwallpapers.html</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">1920</d:Width>
+                <d:Height m:type="Edm.Int32">1080</d:Height>
+                <d:FileSize m:type="Edm.Int64">1460034</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts3.mm.bing.net/th?id=JN.fW%2ffOpYusqUBcnONbYXZ9g&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">168</d:Height>
+                    <d:FileSize m:type="Edm.Int64">8327</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=25&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">aecebace-296e-4a4d-845a-7de21fc31a39</d:ID>
+                <d:Title m:type="Edm.String">Authentic African Voodoo</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://www.africavoodoo.com/Voodoo-Images/Voodoo-Love-Spells-Psychic-Readings_San-Antonio-TX-78240_182259.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.africavoodoo.com/Love-Spell.html</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.africavoodoo.com/Love-Spell.html</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">336</d:Width>
+                <d:Height m:type="Edm.Int32">450</d:Height>
+                <d:FileSize m:type="Edm.Int64">31632</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.AKLz2wwN04p95qMk3WyW7Q&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">224</d:Width>
+                    <d:Height m:type="Edm.Int32">300</d:Height>
+                    <d:FileSize m:type="Edm.Int64">13821</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=26&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">806320d2-c5f5-4bc0-86dd-babc3dbd8857</d:ID>
+                <d:Title m:type="Edm.String">Voodoo Fairy</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://jameslyonsart.com/voodoofae.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.jameslyonsart.com/voodoofae.html</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.jameslyonsart.com/voodoofae.html</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">1024</d:Width>
+                <d:Height m:type="Edm.Int32">768</d:Height>
+                <d:FileSize m:type="Edm.Int64">318828</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.aFWMNFb3vOvJquHlZrn0Kw&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">480</d:Width>
+                    <d:Height m:type="Edm.Int32">360</d:Height>
+                    <d:FileSize m:type="Edm.Int64">35275</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=27&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">96cd5831-420c-4898-9d0a-3f172bad8de0</d:ID>
+                <d:Title m:type="Edm.String">Haitian women join in a voodoo bathing ritual in an undated picture.
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://images.nationalgeographic.com/wpf/media-live/photos/000/122/cache/haiti-voodoo_12213_600x450.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://news.nationalgeographic.com/news/2010/01/100125-haiti-earthquake-voodoo-pat-robertson-pact-devil-wade-davis/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">news.nationalgeographic.com/news/2010/01/100125-haiti-earthquake...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">600</d:Width>
+                <d:Height m:type="Edm.Int32">403</d:Height>
+                <d:FileSize m:type="Edm.Int64">60741</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts2.mm.bing.net/th?id=JN.01t25RnBrpGiuiLAyaA6rQ&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">201</d:Height>
+                    <d:FileSize m:type="Edm.Int64">14861</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=28&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">a4469275-d8b5-45e6-adb3-db231652ca29</d:ID>
+                <d:Title m:type="Edm.String">Voodoo Doll</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://www.hzproduct.com/iupload/937/96101/voodoo-doll-162.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.hzproduct.com/pro/937/96181/voodoo-doll-246292.html
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.hzproduct.com/pro/937/96181/voodoo-doll-246292.html</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">800</d:Width>
+                <d:Height m:type="Edm.Int32">665</d:Height>
+                <d:FileSize m:type="Edm.Int64">51101</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts1.mm.bing.net/th?id=JN.Wp8JWgTL%2fiRQdtJo8hyQDg&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">480</d:Width>
+                    <d:Height m:type="Edm.Int32">399</d:Height>
+                    <d:FileSize m:type="Edm.Int64">11167</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=29&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">2ba2f6cc-2d3f-4ae4-82b1-cf0170a3523b</d:ID>
+                <d:Title m:type="Edm.String">that time there has been little contact with any resident of Voodoo ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://www.hauntedamericatours.com/voodoo/voodoovillage/image/VOODOO-VILLAGE-PRAYERS.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.hauntedamericatours.com/voodoo/voodoovillage/</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.hauntedamericatours.com/voodoo/voodoovillage</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">400</d:Width>
+                <d:Height m:type="Edm.Int32">533</d:Height>
+                <d:FileSize m:type="Edm.Int64">35875</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts2.mm.bing.net/th?id=JN.udNaulVe9dr917zshnan8w&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">225</d:Width>
+                    <d:Height m:type="Edm.Int32">300</d:Height>
+                    <d:FileSize m:type="Edm.Int64">15286</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=30&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">15a55756-6e71-424b-afc8-096d0862bae0</d:ID>
+                <d:Title m:type="Edm.String">Skulls at the Voodoo Museum in New Orleans</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://entertainmentdesigner.com/wp-content/uploads/2012/10/ED-voodoo-museum1.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://entertainmentdesigner.com/news/museum-design-news/the-new-orleans-historic-voodoo-museum/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">entertainmentdesigner.com/news/museum-design-news/the-new-orleans...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">800</d:Width>
+                <d:Height m:type="Edm.Int32">600</d:Height>
+                <d:FileSize m:type="Edm.Int64">131448</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.EXS6adWFojb6Eq2Q7LFxmQ&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">225</d:Height>
+                    <d:FileSize m:type="Edm.Int64">20228</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=31&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">557e4d32-43d2-4507-a2a1-dba7dcce3439</d:ID>
+                <d:Title m:type="Edm.String">xbox_voodoo_guitar_1.jpg</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://idata.over-blog.com/3/71/34/58/Dossier-1/xbox_voodoo_guitar_1.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://stuff-i-like.over-blog.com/article-xbox-360-wireless-controllers-46322537.html
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">stuff-i-like.over-blog.com/article-xbox-360-wireless-controllers...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">1600</d:Width>
+                <d:Height m:type="Edm.Int32">1120</d:Height>
+                <d:FileSize m:type="Edm.Int64">396902</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts2.mm.bing.net/th?id=JN.gafRTvTvh0sFCuRxtwtdZA&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">210</d:Height>
+                    <d:FileSize m:type="Edm.Int64">11119</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=32&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">49cbd60c-34fd-42a1-bad8-6cfc8bd68eb1</d:ID>
+                <d:Title m:type="Edm.String">DC Comics The New 52 - Voodoo</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://media.dcentertainment.com/sites/default/files/files/2011/12/VOODOO_Cv7_aksjdhf2875012987459.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.dccomics.com/new-52-voodoo</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.dccomics.com/new-52-voodoo</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">563</d:Width>
+                <d:Height m:type="Edm.Int32">864</d:Height>
+                <d:FileSize m:type="Edm.Int64">150712</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts2.mm.bing.net/th?id=JN.SxSphZBiqSbayOogOKeKXA&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">195</d:Width>
+                    <d:Height m:type="Edm.Int32">300</d:Height>
+                    <d:FileSize m:type="Edm.Int64">13346</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=33&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">0d5ff22a-209e-4d2d-a55b-a535c3a6bc67</d:ID>
+                <d:Title m:type="Edm.String">Voodoo Priest [wide]</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://bestgamewallpapers.com/files/dead-meets-lead/voodoo-priest_wide.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://bestgamewallpapers.com/dead-meets-lead/voodoo-priest
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">bestgamewallpapers.com/dead-meets-lead/voodoo-priest</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">1920</d:Width>
+                <d:Height m:type="Edm.Int32">1080</d:Height>
+                <d:FileSize m:type="Edm.Int64">400962</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts1.mm.bing.net/th?id=JN.ps0PFMPCo4nsZCu5FHGcag&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">480</d:Width>
+                    <d:Height m:type="Edm.Int32">270</d:Height>
+                    <d:FileSize m:type="Edm.Int64">5757</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=34&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">a3a00b0c-cfa2-4806-bca1-f6c09f764b53</d:ID>
+                <d:Title m:type="Edm.String">Trance party … voodoo worshippers dance as they perform sacredrites ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://www.smh.com.au/ffximage/2006/01/11/voodoo1201_wideweb__470x313,0.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://www.smh.com.au/news/world/voodoo-celebration-gets-into-the-spirit/2006/01/11/1136956242195.html
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.smh.com.au/news/world/voodoo-celebration-gets-into-the-spirit...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">470</d:Width>
+                <d:Height m:type="Edm.Int32">313</d:Height>
+                <d:FileSize m:type="Edm.Int64">43211</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts3.mm.bing.net/th?id=JN.a%2bz%2fjJfLeY2DUIgDmM6Kxg&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">470</d:Width>
+                    <d:Height m:type="Edm.Int32">313</d:Height>
+                    <d:FileSize m:type="Edm.Int64">38908</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=35&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">5a5d186a-bd67-47bb-8127-eee1e55899bb</d:ID>
+                <d:Title m:type="Edm.String">Voodoo Shop by Candra</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://th01.deviantart.net/fs71/PRE/f/2010/329/1/4/voodoo_shop_by_candra-d33l0lv.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://candra.deviantart.com/art/Voodoo-Shop-187417939</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">candra.deviantart.com/art/Voodoo-Shop-187417939</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">722</d:Width>
+                <d:Height m:type="Edm.Int32">1107</d:Height>
+                <d:FileSize m:type="Edm.Int64">242564</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.L53MyxY28aUqVNRlCtIdyg&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">313</d:Width>
+                    <d:Height m:type="Edm.Int32">480</d:Height>
+                    <d:FileSize m:type="Edm.Int64">36770</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=36&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">e3b1a58f-7878-475f-9d9f-7585418532dc</d:ID>
+                <d:Title m:type="Edm.String">Conversations sparked by photojournalism. Follow us on Twitter to keep
+                    ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://msnbcmedia.msn.com/j/msnbc/Components/Photos/070730/pb_070730_voodoo_holcombe.photoblog900.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://photoblog.nbcnews.com/_nv/more/section/archive?date=2007/7
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">photoblog.nbcnews.com/_nv/more/section/archive?date=2007/7
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">900</d:Width>
+                <d:Height m:type="Edm.Int32">598</d:Height>
+                <d:FileSize m:type="Edm.Int64">387764</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.J41TxuLvbrtHgdI91LvCPQ&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">480</d:Width>
+                    <d:Height m:type="Edm.Int32">318</d:Height>
+                    <d:FileSize m:type="Edm.Int64">23573</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=37&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">31c4152d-bc22-4aa8-9d72-d5512ef363bf</d:ID>
+                <d:Title m:type="Edm.String">... com graphics occult voodoo voodoo38 jpg alt voodoo comments graphics
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">http://magickalgraphics.com/Graphics/Occult/Voodoo/voodoo38.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://magickalgraphics.com/voodoo4.htm</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">magickalgraphics.com/voodoo4.htm</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">500</d:Width>
+                <d:Height m:type="Edm.Int32">338</d:Height>
+                <d:FileSize m:type="Edm.Int64">41015</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts4.mm.bing.net/th?id=JN.Ip%2bE5yrzP0Br47ViEp5DOw&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">202</d:Height>
+                    <d:FileSize m:type="Edm.Int64">11911</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=38&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">df88daff-3dd9-4821-b3fb-6518f8f455da</d:ID>
+                <d:Title m:type="Edm.String">- JANUARY 11: Nigerian Yaruba Voodoo Spirits perform during a Voodoo ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://darkroom.baltimoresun.com/wp-content/uploads/2012/06/AFP_Getty-146313096.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://darkroom.baltimoresun.com/2012/06/benins-voodoo-heartland/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">darkroom.baltimoresun.com/2012/06/benins-voodoo-heartland
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">1400</d:Width>
+                <d:Height m:type="Edm.Int32">934</d:Height>
+                <d:FileSize m:type="Edm.Int64">361524</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts4.mm.bing.net/th?id=JN.2DueariCU196hgWNVUcrzw&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">200</d:Height>
+                    <d:FileSize m:type="Edm.Int64">24664</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=39&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">e01351dd-441b-4398-9a05-c331e299a392</d:ID>
+                <d:Title m:type="Edm.String">oben voodoo voodoo magie voodoo ist vielen menschen fremd und</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://voodoo.chankara.de/gfx/Voodoo.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://voodoo.chankara.de/</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">voodoo.chankara.de</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">500</d:Width>
+                <d:Height m:type="Edm.Int32">375</d:Height>
+                <d:FileSize m:type="Edm.Int64">105198</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts4.mm.bing.net/th?id=JN.GNlnEgv3oB1SEwOR1BM%2f5g&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">225</d:Height>
+                    <d:FileSize m:type="Edm.Int64">10889</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=40&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">cbe42fde-04bd-4144-8cfe-f24497331f8c</d:ID>
+                <d:Title m:type="Edm.String">Voodoo/Vodou</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://yoyo.cc.monash.edu.au/groups/eas/voodoo.jpg</d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://yoyo.cc.monash.edu.au/groups/eas/voodoo.htm</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">yoyo.cc.monash.edu.au/groups/eas/voodoo.htm</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">340</d:Width>
+                <d:Height m:type="Edm.Int32">330</d:Height>
+                <d:FileSize m:type="Edm.Int64">29912</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts4.mm.bing.net/th?id=JN.cjJ9nADk5bxgGY4STNiA7A&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">291</d:Height>
+                    <d:FileSize m:type="Edm.Int64">10602</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=41&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">03410a76-d10c-4f58-b431-ad81824f5f69</d:ID>
+                <d:Title m:type="Edm.String">Voodoo: Is It an African Religion?</d:Title>
+                <d:MediaUrl m:type="Edm.String">http://religioninafrica.com/wp-content/uploads/2011/12/voodoo.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://religioninafrica.com/voodoo-is-it-an-african-religion/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">religioninafrica.com/voodoo-is-it-an-african-religion</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">525</d:Width>
+                <d:Height m:type="Edm.Int32">350</d:Height>
+                <d:FileSize m:type="Edm.Int64">51034</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts2.mm.bing.net/th?id=JN.023PLMhuIP4kKe3%2f9fjY7w&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">480</d:Width>
+                    <d:Height m:type="Edm.Int32">320</d:Height>
+                    <d:FileSize m:type="Edm.Int64">20591</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=42&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">d8eb70ac-674a-49ee-8c98-28c8be9eb908</d:ID>
+                <d:Title m:type="Edm.String">Dr-Facilier.jpg</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://images2.wikia.nocookie.net/__cb20120209202653/powerlisting/images/a/a0/Dr-Facilier.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://powerlisting.wikia.com/wiki/Voodoo</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">powerlisting.wikia.com/wiki/Voodoo</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">500</d:Width>
+                <d:Height m:type="Edm.Int32">460</d:Height>
+                <d:FileSize m:type="Edm.Int64">200716</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts4.mm.bing.net/th?id=JN.EXLtC2Hq2DdpD6d5BAOfMg&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">276</d:Height>
+                    <d:FileSize m:type="Edm.Int64">18593</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=43&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">b728168b-eac2-4990-8d3c-031d62a2ad2c</d:ID>
+                <d:Title m:type="Edm.String">Description Voodoo Altar New Orleans.jpg</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://upload.wikimedia.org/wikipedia/commons/2/24/Voodoo_Altar_New_Orleans.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://en.wikipedia.org/wiki/File:Voodoo_Altar_New_Orleans.jpg
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">en.wikipedia.org/wiki/File:Voodoo_Altar_New_Orleans.jpg</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">1600</d:Width>
+                <d:Height m:type="Edm.Int32">1067</d:Height>
+                <d:FileSize m:type="Edm.Int64">551433</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts4.mm.bing.net/th?id=JN.NeQxZy8ZPkQIOPWYavKNNw&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">480</d:Width>
+                    <d:Height m:type="Edm.Int32">320</d:Height>
+                    <d:FileSize m:type="Edm.Int64">37381</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=44&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">e16ec539-7e65-45b1-86e2-4431d8522056</d:ID>
+                <d:Title m:type="Edm.String">Vodoun priest performing a ritual</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://3.bp.blogspot.com/-Q8kwBMZGIKA/UG4S5NeIKvI/AAAAAAAAElQ/OMF2KXBLvvk/s640/haiti_voodoo_030220101.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://kwekudee-tripdownmemorylane.blogspot.com/2012/10/haitian-voodoo-and-ville-bonheursaut-d.html
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">
+                    kwekudee-tripdownmemorylane.blogspot.com/2012/10/haitian-voodoo-and...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">610</d:Width>
+                <d:Height m:type="Edm.Int32">422</d:Height>
+                <d:FileSize m:type="Edm.Int64">78371</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts4.mm.bing.net/th?id=JN.1W4Q4CoBwhyOGqwPTdqhcA&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">480</d:Width>
+                    <d:Height m:type="Edm.Int32">332</d:Height>
+                    <d:FileSize m:type="Edm.Int64">26465</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=45&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">a656246a-0783-49de-845f-43631a964220</d:ID>
+                <d:Title m:type="Edm.String">The annual voodoo festival : Haiti earthquake: voodoo high priest ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">http://i.telegraph.co.uk/multimedia/archive/01569/voodoo1_1569543c.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean/haiti/7119572/Haiti-earthquake-voodoo-high-priest-claims-aid-monopolised-by-Christians.html
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.telegraph.co.uk/news/worldnews/centralamericaandthecaribbean...
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">460</d:Width>
+                <d:Height m:type="Edm.Int32">288</d:Height>
+                <d:FileSize m:type="Edm.Int64">32416</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts3.mm.bing.net/th?id=JN.IXCbrwGLyru%2b6zb30A1O%2fg&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">187</d:Height>
+                    <d:FileSize m:type="Edm.Int64">13061</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=46&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">23743545-2c18-4cd7-b5e5-c8f39f616664</d:ID>
+                <d:Title m:type="Edm.String">MARIE ROSE-HAITI’S VOODOO QUEEN</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://embracingspirituality.files.wordpress.com/2011/08/voodoo_queen_by_michellemonique.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">
+                    http://embracingspirituality.com/2011/08/31/a-voodoo-queen-by-sharlenerose/
+                </d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">embracingspirituality.com/2011/08/31/a-voodoo-queen-by-sharlenerose
+                </d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">800</d:Width>
+                <d:Height m:type="Edm.Int32">798</d:Height>
+                <d:FileSize m:type="Edm.Int64">266322</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts4.mm.bing.net/th?id=JN.6WepO00wDL1yyeHXYEqKRg&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">480</d:Width>
+                    <d:Height m:type="Edm.Int32">478</d:Height>
+                    <d:FileSize m:type="Edm.Int64">54909</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=47&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">d0e2d928-81e2-4056-af04-369e29119c16</d:ID>
+                <d:Title m:type="Edm.String">Voodoo , or Vodun as it known locally, is an officially recognised ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">http://www.dankitwood.com/wp-content/uploads/2012/06/Voodoo_011.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.dankitwood.com/2012/06/15/voodoo/</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.dankitwood.com/2012/06/15/voodoo</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">950</d:Width>
+                <d:Height m:type="Edm.Int32">633</d:Height>
+                <d:FileSize m:type="Edm.Int64">120187</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts3.mm.bing.net/th?id=JN.ncfaoblWviFWmkB1F2Glfg&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">199</d:Height>
+                    <d:FileSize m:type="Edm.Int64">5707</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=48&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">4118734a-3e62-4ff7-9a27-841ef084896c</d:ID>
+                <d:Title m:type="Edm.String">Ghanaian number one sports voodoo priest, popularly known as Okwonfor ...
+                </d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://jimbicentral.typepad.com/photos/uncategorized/2008/02/08/voodoo.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.postnewsline.com/2008/02/voodoo-priest-s.html</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.postnewsline.com/2008/02/voodoo-priest-s.html</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">640</d:Width>
+                <d:Height m:type="Edm.Int32">512</d:Height>
+                <d:FileSize m:type="Edm.Int64">259794</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">http://ts4.mm.bing.net/th?id=JN.TpP8Vr%2fUnJkWTQaXAFjX9A&amp;pid=15.1</d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">240</d:Height>
+                    <d:FileSize m:type="Edm.Int64">18096</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+    <entry>
+        <id>https://api.datamarket.azure.com/Data.ashx/Bing/Search/v1/Image?Query='voodoo'&amp;Market='en-GB'&amp;Adult='Strict'&amp;$skip=49&amp;$top=1</id>
+        <title type="text">ImageResult</title>
+        <updated>2015-06-08T20:32:03Z</updated>
+        <content type="application/xml">
+            <m:properties>
+                <d:ID m:type="Edm.Guid">e36e52c8-735a-4303-b440-d590fcbe3707</d:ID>
+                <d:Title m:type="Edm.String">voodoo-market-togo</d:Title>
+                <d:MediaUrl m:type="Edm.String">
+                    http://www.cvltnation.com/wp-content/uploads/2013/04/voodoo-market-togo.jpg
+                </d:MediaUrl>
+                <d:SourceUrl m:type="Edm.String">http://www.cvltnation.com/voodoo-markets/</d:SourceUrl>
+                <d:DisplayUrl m:type="Edm.String">www.cvltnation.com/voodoo-markets</d:DisplayUrl>
+                <d:Width m:type="Edm.Int32">600</d:Width>
+                <d:Height m:type="Edm.Int32">401</d:Height>
+                <d:FileSize m:type="Edm.Int64">235566</d:FileSize>
+                <d:ContentType m:type="Edm.String">image/jpeg</d:ContentType>
+                <d:Thumbnail m:type="Bing.Thumbnail">
+                    <d:MediaUrl m:type="Edm.String">
+                        http://ts2.mm.bing.net/th?id=JN.fhC6fbEAykVwqD6SserGow&amp;pid=15.1
+                    </d:MediaUrl>
+                    <d:ContentType m:type="Edm.String">image/jpg</d:ContentType>
+                    <d:Width m:type="Edm.Int32">300</d:Width>
+                    <d:Height m:type="Edm.Int32">200</d:Height>
+                    <d:FileSize m:type="Edm.Int64">9766</d:FileSize>
+                </d:Thumbnail>
+            </m:properties>
+        </content>
+    </entry>
+</feed>

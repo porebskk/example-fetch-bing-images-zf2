@@ -1,0 +1,13 @@
+<?php
+/** @var \Application\Picture\DataModel\HtmlPictureInterface[] $pictures */
+$pictures = $this->pictures;
+?>
+<div>
+    <?php foreach ($pictures as $picture): ?>
+        <div class="col-xs-6 col-md-3">
+            <a href="javascript:void(0)" class="thumbnail">
+                <img src="<?= $picture->getHtmlPath(); ?>"/>
+            </a>
+        </div>
+    <?php endforeach; ?>
+</div>

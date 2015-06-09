@@ -1,0 +1,22 @@
+<?php $this->inlineScript()->prependFile($this->basePath('/js/voodoo/search.js')); ?>
+<div>
+    <form class="form-inline" method="post" action="<?= $this->url('home'); ?>">
+        <div class="input-group" style="width: 500px;">
+            <div class="input-group-addon">Search:</div>
+            <input type="text" class="form-control" name="searchTerm" autofocus/>
+            <span class="btn btn-default input-group-addon" id="doSearchBtn">
+                <i class="glyphicon glyphicon-search"></i>
+            </span>
+        </div>
+    </form>
+    <hr>
+    <div>
+        <?php if (isset($this->searchResult)): ?>
+            <div class="alert alert-info">
+                Click on a image to save it to the local file system. "nature" brings up only local files "voodoo"
+                brings up a few local files and files fetched from bing.
+            </div>
+            <?= $this->searchResult; ?>
+        <?php endif; ?>
+    </div>
+</div>
